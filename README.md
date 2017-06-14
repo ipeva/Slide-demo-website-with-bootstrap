@@ -6,7 +6,7 @@ Slide-demo-website-with-bootstrap
 - HTML
 - CSS
 
-# Usage
+# Description
 > The width of the image to fill the screen width.
 > The height varies in proportion to the width.
 > The template is set to a minimum of 420 pixels wide
